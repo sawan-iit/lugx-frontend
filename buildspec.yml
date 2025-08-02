@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    REPOSITORY_URI: 123456789012.dkr.ecr.ap-southeast-1.amazonaws.com/lugx-frontend
+    REPOSITORY_URI: 699397011465.dkr.ecr.ap-southeast-1.amazonaws.com/lugx-frontend
     IMAGE_TAG: latest
 
 phases: 
